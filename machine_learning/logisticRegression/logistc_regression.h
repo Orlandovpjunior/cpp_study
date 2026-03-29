@@ -1,0 +1,8 @@
+//
+// Created by ovpju on 25/03/2026.
+//
+
+#ifndef CPP_STUDY_LOGISTC_REGRESSION_H
+#define CPP_STUDY_LOGISTC_REGRESSION_H
+
+#endif //CPP_STUDY_LOGISTC_REGRESSION_H
